@@ -12,7 +12,9 @@
 
 2. xmind
 
-下载 [/XMind 6/3.5.1/xmind-macosx-3.5.1.201411201906.dmg](http://sourceforge.net/projects/xmind3/files/XMind 6/3.5.1/xmind-macosx-3.5.1.201411201906.dmg/download)
+下载
+
+ [/XMind 6/3.5.1/xmind-macosx-3.5.1.201411201906.dmg](http://sourceforge.net/projects/xmind3/files/XMind 6/3.5.1/xmind-macosx-3.5.1.201411201906.dmg/download)
 
 [XMind download | SourceForge.net](https://sourceforge.net/projects/xmind3/)
 
