@@ -36,7 +36,7 @@
   
 - 黑客工具
   - Anki卡片：把知识点搬进大脑。
-  - [语音写作](https://github.com/kiaorahao/AA002_Template/issues/5)：是将网状的思维，在以线性的方式进行倒闭式输出后，在脑中形成树状的结构。
+  - [讯飞语音写作](https://github.com/kiaorahao/AA002_Template/issues/5)：是将网状的思维，在以线性的方式进行倒闭式输出后，在脑中形成树状的结构。
   - Xmind：知识全景图默写。
 - **：语音写作的"反"
   
